@@ -16,9 +16,7 @@ Final-year Diploma student at Sunway College | Aspiring Software Engineer
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Projects
 
-- [Tech News Scraper](https://github.com/BabaevvAnnageldi/tech-news-scraper) - Python web scraper for Hacker News
 
 ## Contact
 
