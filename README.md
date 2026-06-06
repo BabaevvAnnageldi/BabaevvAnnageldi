@@ -21,7 +21,7 @@ Final-year Diploma student at Sunway College | Aspiring Software Engineer
   [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=firefox&logoColor=white)](https://babaevvanna
   geldi.github.io)                                                                                                             
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.
-  com/in/YOUR-LINKEDIN-USERNAME)                                                                                               
+  com/in/www.linkedin.com/in/annageldi-babaev-tkm)                                                                                               
   [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:babaevanna880@gmail
   .com)   
 
