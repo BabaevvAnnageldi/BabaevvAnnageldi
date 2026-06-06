@@ -3,9 +3,11 @@
 ---
 
 Final-year Diploma student at Sunway College | Aspiring Software Engineer
-Seeking Software Internship | Aug 2026
 
-## Currrently Learning:AWS Cloud Services/Security##
+Seeking Software Internship | Aug 2026
+  
+
+ Currrently Learning:AWS Cloud Services/Security
 
 ## Tech Stack
 
