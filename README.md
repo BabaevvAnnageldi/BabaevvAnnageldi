@@ -13,16 +13,14 @@
 </p>
 
 ---
-
-### 👨‍💻 About Me
+ 👨‍💻 About Me
 
 I'm a **final-year Diploma student at Sunway College** and an aspiring Software Engineer from Malaysia.
 
-- 🎓 Studying **Information Technology** with a focus on software development
-- 💻 Passionate about building efficient and scalable applications
-- 🌱 Currently learning **cloud technologies** and **full-stack development**
-- 🎯 Looking for **internship opportunities** in software engineering
-- ⚡ Fun fact: I love exploring new technologies and solving coding challenges
+-  Studying **Information Technology** with a focus on software development
+-  Currently learning **cloud technologies** and **full-stack development**
+-  Looking for **internship opportunities** in software engineering
+
 
 ---
 
@@ -66,15 +64,9 @@ I'm a **final-year Diploma student at Sunway College** and an aspiring Software 
 
 ---
 
-### 📫 Let's Connect
-
-<p align="center">
-  I'm always open to discussing new projects, creative ideas, or opportunities to be part of your team.
-</p>
-
 <p align="center">
   <a href="mailto:babaevanna880@gmail.com">
-    <img src="https://img.shields.io/badge/Say%20Hello-babaevanna880@gmail.com-00d4aa?style=for-the-badge" alt="Email Me"/>
+    <img src="https://img.shields.io/badge/-babaevanna880@gmail.com-00d4aa?style=for-the-badge" alt="Email Me"/>
   </a>
 </p>
 
@@ -84,6 +76,4 @@ I'm a **final-year Diploma student at Sunway College** and an aspiring Software 
   <img src="https://komarev.com/ghpvc/?username=BabaevvAnnageldi&color=00d4aa&style=flat-square" alt="Profile Views"/>
 </p>
 
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/BabaevvAnnageldi">Annageldi Babayev</a></i>
-</p>
+
