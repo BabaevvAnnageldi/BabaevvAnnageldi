@@ -27,8 +27,10 @@ Seeking Software Internship | Aug 2026
 
 
 ## Contact
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://babaevvannageldi.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/annageldi-babaev-tkm)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:babaevanna880@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in
+  /annageldi-babaev-tkm)                                                                                                       
+  [![Email](https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:babaevanna880@gmail.co
+  m)                                                                                                                           
+  [![Portfolio](https://img.shields.io/badge/-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://babaevvanna
+  geldi.github.io)   
 
